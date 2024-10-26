@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[S M Sagar], 🌐 Passionate Front-End Developer with expertise in JavaScript, React.js, Node.js, Tailwind CSS, and Next.js.
+I'm S M Sagar, 🌐 Passionate Front-End Developer with expertise in JavaScript, React.js, Node.js, Tailwind CSS, and Next.js.
 
 
 <details>
