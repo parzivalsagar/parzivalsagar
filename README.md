@@ -1,5 +1,4 @@
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=clubullas@gmail.com)](mailto:clubullas@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ullas-arwan-8387b22a2/)
+[![Linkedin Badge](https://www.linkedin.com/in/s-m-sagar-a7387a316/)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
